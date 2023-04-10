@@ -1,14 +1,14 @@
 {
-    "name": "YoneRobot",
+    "name": "LIFESTYLE",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
        "anime",
        "group",
        "manager",
-       "yone"
+       "LIFESTYLE"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/lifestyle-robot/noob",
  "addons": [
     {
        "options": {
@@ -59,12 +59,12 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "kumjojass"
+       "value": "LIFESTYLE"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "LIFESTYLE_BOTS"
     },    
     "KORA_API_TOKEN": {
       "description": "generate your kora api token from @Camille_Robot",
@@ -73,7 +73,7 @@
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://telegra.ph/file/b749b0e80e82291e85e10.jpg"
+       "value": "https://graph.org/file/dc24251b1b83e8391f289.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
